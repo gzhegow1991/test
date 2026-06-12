@@ -1,8 +1,3 @@
-# Test
-
-## Примеры и тесты
-
-```php
 <?php
 
 define('__DIR_ROOT__', __DIR__ . '/..');
@@ -32,5 +27,3 @@ $test->expectStdout('
 "TEST 1"
 ');
 $test->run();
-```
-
